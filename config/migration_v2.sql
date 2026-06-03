@@ -1,0 +1,9 @@
+-- ============================================================
+-- MIGRATION V2 - Plus nécessaire
+-- Le schema.sql est maintenant complet et synchronisé avec l'UML
+-- Exécuter UNIQUEMENT schema.sql depuis le début
+-- ============================================================
+-- Cette migration est remplacée par le nouveau schema.sql
+-- Si vous avez déjà créé la BDD avec l'ancien schema.sql :
+-- 1. DROP DATABASE vote_ussd;
+-- 2. Relancer schema.sql
